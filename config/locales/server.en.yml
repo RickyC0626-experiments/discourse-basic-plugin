@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    basic_plugin_enabled: "Enable basic-plugin plugin"
+    basic_plugin_max_volume: "The max volume possible on this plugin"
+    basic_plugin_url_link: "Any random url link"

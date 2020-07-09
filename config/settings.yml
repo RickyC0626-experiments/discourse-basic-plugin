@@ -1,0 +1,12 @@
+plugins:
+  basic_plugin_enabled:
+    default: false
+    client: false
+  basic_plugin_max_volume:
+    default: 5
+    min: 0
+    max: 10
+    client: true
+  basic_plugin_url_link:
+    default: "https://some.website.org"
+    client: true
